@@ -1,7 +1,6 @@
-package oliahmed.com.importantandroidfuntion;
+package oliahmed.com.importantandroidfuntion.Activity;
 
 import android.content.Intent;
-import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Window;
@@ -12,6 +11,7 @@ import com.github.javiersantos.bottomdialogs.BottomDialog;
 import java.util.Timer;
 import java.util.TimerTask;
 
+import oliahmed.com.importantandroidfuntion.R;
 import oliahmed.com.importantandroidfuntion.Util.NetworkCheck;
 
 public class Splash extends AppCompatActivity {
