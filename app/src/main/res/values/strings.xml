@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Important Android Funtion</string>
+    <string name="app_tag_line">Loading Please wait</string>
 </resources>
