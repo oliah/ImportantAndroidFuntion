@@ -12,12 +12,12 @@ Screenshot Sample:
 
 
 <h3> 1 Splash Screen  </h3> <br> </br>
-<img src="https://github.com/oliah/ImportantAndroidFuntion/blob/master/Splash.png" width="250" height="400"/>
+<img src="https://github.com/oliah/ImportantAndroidFuntion/blob/master/Splash.png" width="250" height="450"/>
 
 
 
 <h3> 2 Main Dash Board </h3>  <br> </br>
-<img src="https://github.com/oliah/ImportantAndroidFuntion/blob/master/MainActivity.png" width="250" height="400"/>
+<img src="https://github.com/oliah/ImportantAndroidFuntion/blob/master/MainActivity.png" width="250" height="450"/>
 
 
 
