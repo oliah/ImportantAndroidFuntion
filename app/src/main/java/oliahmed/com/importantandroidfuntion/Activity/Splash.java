@@ -42,7 +42,6 @@ public class Splash extends AppCompatActivity {
     }
 
     private void startActivityMainDelaymain() {
-        // Show splash screen for 2 seconds
         TimerTask task = new TimerTask() {
             @Override
             public void run() {
@@ -61,9 +60,7 @@ public class Splash extends AppCompatActivity {
                 .setContent("Please Reconnect With Working Internet")
                 .setPositiveText("OK")
                 .setPositiveBackgroundColorResource(R.color.colorPrimary)
-                //.setPositiveBackgroundColor(ContextCompat.getColor(Splash.this, R.color.colorPrimary)
                 .setPositiveTextColorResource(android.R.color.white)
-                //.setPositiveTextColor(ContextCompat.getColor(Splash.this, R.color.colorAccent)
                 .onPositive(new BottomDialog.ButtonCallback() {
                     @Override
                     public void onClick(BottomDialog dialog) {
