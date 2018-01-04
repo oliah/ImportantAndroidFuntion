@@ -11,9 +11,13 @@ Version One:
 Screenshot Sample:
 
 
-![1 Splash Screen](https://github.com/oliah/ImportantAndroidFuntion/blob/master/Splash.png)
+1 Splash Screen
+<img src="https://github.com/oliah/ImportantAndroidFuntion/blob/master/Splash.png" width="100" height="100"/>
 
 
-![1 Main Dash Board](https://github.com/oliah/ImportantAndroidFuntion/blob/master/MainActivity.png)
+
+2 Main Dash Board
+<img src="https://github.com/oliah/ImportantAndroidFuntion/blob/master/MainActivity.png" width="100" height="100"/>
+
 
 
